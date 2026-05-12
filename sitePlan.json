@@ -1,0 +1,42 @@
+{
+  "businessName": "Adesol Collections",
+  "industry": "Fashion and Creative Design",
+  "tone": "warm, stylish, and inviting",
+  "tagline": "Where Style Meets Creativity",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Adesol Collections – your premier destination for exceptional fashion and creative design in Osogbo. We bring your style vision to life with bespoke designs, quality fabrics, and expert craftsmanship that celebrates Nigerian elegance and contemporary trends.",
+      "imagePrompt": "A vibrant Nigerian fashion boutique interior with colorful traditional and modern fabrics displayed on elegant mannequins, warm lighting highlighting rich African print textiles, fashion sketches on walls, measuring tape and sewing tools artfully arranged, professional photography style, shallow depth of field, golden hour lighting streaming through windows in Osogbo setting",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Adesol Collections is Osogbo's trusted name in fashion and creative design. Located in the heart of Power Line area, we specialize in transforming fabric into masterpieces that reflect your unique personality and style. Our skilled designers combine traditional Nigerian aesthetics with modern fashion trends to create outfits that make you stand out. Whether you need native attire for special occasions, contemporary corporate wear, or creative custom designs, we deliver excellence in every stitch. At Adesol Collections, we don't just make clothes – we craft confidence.",
+      "imagePrompt": "A professional Nigerian fashion designer's workspace showing a modern sewing station with industrial machines, colorful thread spools organized on walls, fabric swatches in traditional ankara and lace materials, design mood boards, natural daylight from windows, warm and inviting atmosphere, documentary style photography, Osogbo cultural elements subtly incorporated",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "**Bespoke Fashion Design** - Custom-made outfits tailored to your exact measurements and style preferences. From traditional aso-ebi to modern cocktail dresses, we bring your vision to life.\n\n**Native & Traditional Wear** - Exquisite Nigerian traditional attire including agbada, iro and buba, kaftan, and senator styles for weddings, parties, and cultural events.\n\n**Corporate & Casual Wear** - Professional workwear and everyday casual outfits that combine comfort with style for the modern Nigerian professional.\n\n**Bridal & Special Occasions** - Stunning bridal gowns, bridesmaid dresses, and special event outfits that make your big day unforgettable.\n\n**Fashion Alterations** - Expert alterations and adjustments to ensure your garments fit perfectly and flatter your body shape.\n\n**Creative Fashion Consulting** - Personal styling sessions and wardrobe consultations to help you discover and refine your unique fashion identity.",
+      "imagePrompt": "A collage-style layout showing diverse Nigerian fashion pieces: elegant bridal gown on hanger, colorful ankara outfit on mannequin, professional corporate wear, traditional agbada, all displayed in a modern boutique setting with plants, soft studio lighting, clean white background with pops of vibrant African colors, professional product photography style",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to elevate your wardrobe? Visit Adesol Collections today or reach out to discuss your fashion needs. We're located in Power Line area, Olorunda, Osogbo, and we're excited to create something beautiful for you. Call us, send a WhatsApp message, or visit our studio – let's bring your style vision to life!",
+      "imagePrompt": "A welcoming Nigerian fashion boutique storefront with 'Adesol Collections' signage, Power Line area Osogbo streetscape visible, warm inviting entrance with display window showing beautiful outfits, potted plants near entrance, late afternoon golden light, realistic architectural photography, people walking by in background, professional real estate photography style",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 803 617 0782",
+    "email": "info@adesolcollections.com",
+    "address": "Power Line Area, Olorunda, Osogbo, Osun State, Nigeria",
+    "whatsapp": "https://wa.me/2348036170782"
+  }
+}
